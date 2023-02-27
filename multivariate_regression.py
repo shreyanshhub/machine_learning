@@ -20,3 +20,5 @@ prediction = model.predict([[2,3]])
 
 #getting the weights in the model
 weights = model.coef_
+
+ 
